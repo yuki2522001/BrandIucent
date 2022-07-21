@@ -1,0 +1,16 @@
+.sectionSignUp {
+  display: flex;
+  background: var(--bg-light);
+}
+
+.sectionSignUp__content {
+  margin-top: 167px;
+}
+
+.sectionSignUp__info {
+  margin: 89px 0 29px;
+}
+
+.sectionSignUp__address > button {
+  margin-left: 10px;
+}
